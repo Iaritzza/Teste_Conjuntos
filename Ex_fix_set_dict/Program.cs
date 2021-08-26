@@ -44,8 +44,18 @@ namespace Ex_fix_set_dict
 
             Console.WriteLine("Total de alunos: " + aux.Count);
 
-            Console.Write("APENAS ALTERANDOO");
+            Console.Write("Alunos: ");
+
+            Imprimir(aux);
         }
+        static void Imprimir<T>(IEnumerable<T> alunos){
+            foreach (T cod in alunos)
+            {
+                Console.WriteLine(cod);
+            }
+        }
+        
+
 
         
 

@@ -12,3 +12,17 @@ C:\Users\iaritzza.moura\source\repos\Ex_fix_set_dict\Ex_fix_set_dict\obj\Debug\n
 C:\Users\iaritzza.moura\source\repos\Ex_fix_set_dict\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.dll
 C:\Users\iaritzza.moura\source\repos\Ex_fix_set_dict\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.pdb
 C:\Users\iaritzza.moura\source\repos\Ex_fix_set_dict\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.genruntimeconfig.cache
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\bin\Debug\netcoreapp3.1\Ex_fix_set_dict.exe
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\bin\Debug\netcoreapp3.1\Ex_fix_set_dict.deps.json
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\bin\Debug\netcoreapp3.1\Ex_fix_set_dict.runtimeconfig.json
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\bin\Debug\netcoreapp3.1\Ex_fix_set_dict.runtimeconfig.dev.json
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\bin\Debug\netcoreapp3.1\Ex_fix_set_dict.dll
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\bin\Debug\netcoreapp3.1\Ex_fix_set_dict.pdb
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.csproj.AssemblyReference.cache
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.AssemblyInfoInputs.cache
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.AssemblyInfo.cs
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.csproj.CoreCompileInputs.cache
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.dll
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.pdb
+C:\Users\iaritzza.moura\Documents\Testes\Teste_Conjuntos\Ex_fix_set_dict\obj\Debug\netcoreapp3.1\Ex_fix_set_dict.genruntimeconfig.cache
