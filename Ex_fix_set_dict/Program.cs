@@ -44,6 +44,8 @@ namespace Ex_fix_set_dict
 
             Console.WriteLine("Total de alunos: " + aux.Count);
 
+            Console.Write("----------");
+
             Console.Write("Alunos: ");
 
             Imprimir(aux);
