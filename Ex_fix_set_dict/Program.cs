@@ -43,6 +43,8 @@ namespace Ex_fix_set_dict
             aux.UnionWith(cursC);
 
             Console.WriteLine("Total de alunos: " + aux.Count);
+
+            Console.Write("APENAS ALTERANDOO");
         }
 
         
